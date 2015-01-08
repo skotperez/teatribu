@@ -53,10 +53,10 @@
 			<div class="pull-right">Premio Ojo Crítico de Teatro RNE</div>
 			<div id="pre-main-tit" >Teatro Tribueñe</div>
 		</div>
-	</header>
+	</header><!-- #pre -->
 
 	<div class="row">
-	<nav id="sidebar-menu" class="col-sm-2">
+		<nav id="sidebar-menu" class="col-sm-2">
 		<ul class="list-unstyled">
 			<li><a href="">Programación</a></li>
 			<li class="active"><a href="">Noticias</a></li>
@@ -66,4 +66,6 @@
 			<li><a href="">Fotos y vídeos</a></li>
 			<li><a href="">Contacta</a></li>
 		</ul>
-	</nav>
+		</nav>
+
+		<main id="content" class="col-sm-10">

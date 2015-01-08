@@ -1,12 +1,18 @@
 body {
 	margin-top: 50px;
 }
+
+/* JOKERS */
+.text-right { text-align: right; }
+.text-up { text-transform: uppercase; }
+
+/* HEADER */
 #pre {
 	margin-bottom: 30px;
 }
 #pre-navbar {
 	text-transform: uppercase;
-	font: 12px 'Montserrat';
+	font: 10px 'Montserrat';
 }
 #pre-main {
 	text-transform: uppercase;
@@ -16,6 +22,8 @@ body {
 	font: 400 52px/60px 'Montserrat',"Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 }
+
+/* SIDEBAR MENU */
 #sidebar-menu {
 	text-transform: uppercase;
 	font: 14px 'Montserrat';
@@ -34,4 +42,27 @@ body {
 }
 #sidebar-menu > ul > li > a:hover {
 	color: #d5d5d5;
+}
+
+/* FOOTER */
+#epi {
+	margin-top: 30px;
+	margin-bottom: 15px;
+	color: #fff;
+	font: 10px/14px Montserrat;
+}
+#epi a {
+	color: #5c5c62;
+}
+#epi a:hover {
+	color: #d5d5d5;
+}
+.epi-col {
+	padding-top: 15px;
+	padding-left: 0;
+	border-top: 1px solid #5c5c62;
+}
+.epi-col:last-child {
+	padding-left: 15px;
+	padding-right: 0;
 }
