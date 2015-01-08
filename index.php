@@ -17,6 +17,28 @@
 	</article><!-- .featured-item -->
 </section><!-- #featured -->
 
+<section id="social" class="row sec">
+	<header class="hidden"><h2>Redes sociales</h2></header>
+	<div class="col-sm-4">
+		<h3 class="sec-tit">Twitter</h3>
+		<a class="twitter-timeline"  href="https://twitter.com/TeatroTribuene" data-widget-id="553271157965979648">Tweets by @TeatroTribuene</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</div>
+
+	<div class="col-sm-4">
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		<h3 class="sec-tit">Facebook</h3>
+		<div class="fb-like-box" data-href="https://www.facebook.com/pages/Teatro-Tribue&#xf1;e/283458045110407" data-colorscheme="dark" data-show-faces="true" data-header="false" data-stream="true" data-show-border="false"></div>
+	</div>
+</section>
+
 <section id="news" class="row sec">
 	<div class="col-sm-12">
 		<header><h2 class="sec-tit">Noticias</h2></header>

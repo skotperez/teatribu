@@ -21,7 +21,7 @@
 	<![endif]-->
 
 </head>
-<body>
+<body class="home">
 
 <nav id="pre-navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
 	<div class="container-fluid">
@@ -47,7 +47,7 @@
 <div class="container">
 	<header id="pre" class="row">
 		<div id="pre-logo" class="col-sm-2">
-			<img src="images/logo.png" alt="Logo Teatro Tribueñe" />
+			<a href=""><img src="images/logo.png" alt="Logo Teatro Tribueñe" /></a>
 		</div>
 		<div id="pre-main" class="col-sm-10">
 			<div class="pull-right">Premio Ojo Crítico de Teatro RNE</div>
