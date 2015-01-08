@@ -47,6 +47,71 @@
 
 }
 
+
+
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('ubuntu-italic-webfont.eot');
+    src: url('ubuntu-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ubuntu-italic-webfont.woff2') format('woff2'),
+         url('ubuntu-italic-webfont.woff') format('woff'),
+         url('ubuntu-italic-webfont.ttf') format('truetype'),
+         url('ubuntu-italic-webfont.svg#ubuntuitalic') format('svg');
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('ubuntu-medium-webfont.eot');
+    src: url('ubuntu-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ubuntu-medium-webfont.woff2') format('woff2'),
+         url('ubuntu-medium-webfont.woff') format('woff'),
+         url('ubuntu-medium-webfont.ttf') format('truetype'),
+         url('ubuntu-medium-webfont.svg#ubuntumedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('ubuntu-regular-webfont.eot');
+    src: url('ubuntu-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ubuntu-regular-webfont.woff2') format('woff2'),
+         url('ubuntu-regular-webfont.woff') format('woff'),
+         url('ubuntu-regular-webfont.ttf') format('truetype'),
+         url('ubuntu-regular-webfont.svg#ubunturegular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('ubuntu-mediumitalic-webfont.eot');
+    src: url('ubuntu-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ubuntu-mediumitalic-webfont.woff2') format('woff2'),
+         url('ubuntu-mediumitalic-webfont.woff') format('woff'),
+         url('ubuntu-mediumitalic-webfont.ttf') format('truetype'),
+         url('ubuntu-mediumitalic-webfont.svg#ubuntumedium_italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+
 @font-face {
     font-family: 'Lato';
     src: url('lato-bolditalic-webfont.eot');
