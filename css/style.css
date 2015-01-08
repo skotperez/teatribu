@@ -1,0 +1,9 @@
+body {
+	margin-top: 50px;
+}
+#pre-main {
+	text-transform: uppercase;
+}
+#pre-main-tit {
+	font: 52px/60px Monserrat,"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
