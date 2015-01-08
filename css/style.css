@@ -1,9 +1,37 @@
 body {
 	margin-top: 50px;
 }
+#pre {
+	margin-bottom: 30px;
+}
+#pre-navbar {
+	text-transform: uppercase;
+	font: 12px 'Montserrat';
+}
 #pre-main {
 	text-transform: uppercase;
 }
 #pre-main-tit {
-	font: 52px/60px Monserrat,"Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #a40616;
+	font: 400 52px/60px 'Montserrat',"Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+}
+#sidebar-menu {
+	text-transform: uppercase;
+	font: 14px 'Montserrat';
+}
+#sidebar-menu > ul > li {
+	border-bottom: 1px solid #5c5c62;
+}
+#sidebar-menu > ul > li.active > a,
+#sidebar-menu > ul > li.active > a:hover {
+	color: #a40616;
+}
+#sidebar-menu > ul > li > a {
+	padding: 5px 0;
+	display: block;
+	color: #5c5c62;
+}
+#sidebar-menu > ul > li > a:hover {
+	color: #d5d5d5;
 }

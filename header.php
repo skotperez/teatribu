@@ -9,6 +9,8 @@
 <title>Teatro Tribueñe</title>
 
 <link rel='stylesheet' href='css/bootstrap.min.css?ver=4.1' type='text/css' media='all' />
+<!--<link href='http://fonts.googleapis.com/css?family=Montserrat|Ubuntu+Condensed' rel='stylesheet' type='text/css'>-->
+<link rel='stylesheet' href='fonts/fonts.css' type='text/css' media='all' />
 <link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -33,7 +35,7 @@
 		</div>
 		<div class="collapse navbar-collapse" id="hce-pre-navbar-collapse">
 			<ul id="navbar-main" class="nav navbar-nav">
-				<li><a href="">Producciones Tribueñe</a></li>
+				<li class="active"><a href="">Producciones Tribueñe</a></li>
 				<li><a href="">Otras producciones</a></li>
 				<li><a href="">Campañas escolares</a></li>
 				<li><a href="">Clases y encuentros</a></li>
@@ -41,13 +43,27 @@
 		</div>
 	</div>
 </nav>
+
 <div class="container">
-	<header class="row">
+	<header id="pre" class="row">
 		<div id="pre-logo" class="col-sm-2">
 			<img src="images/logo.png" alt="Logo Teatro Tribueñe" />
 		</div>
 		<div id="pre-main" class="col-sm-10">
-			<div id="pre-main-tit" class="pull-right">Premio Ojo Crítico de Teatro RNE</div>
-			<div>Teatro Tribueñe</div>
+			<div class="pull-right">Premio Ojo Crítico de Teatro RNE</div>
+			<div id="pre-main-tit" >Teatro Tribueñe</div>
 		</div>
 	</header>
+
+	<div class="row">
+	<nav id="sidebar-menu" class="col-sm-2">
+		<ul class="list-unstyled">
+			<li><a href="">Programación</a></li>
+			<li class="active"><a href="">Noticias</a></li>
+			<li><a href="">Compañía Tribueñe</a></li>
+			<li><a href="">Dónde estamos</a></li>
+			<li><a href="">Entradas</a></li>
+			<li><a href="">Fotos y vídeos</a></li>
+			<li><a href="">Contacta</a></li>
+		</ul>
+	</nav>
