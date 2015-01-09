@@ -38,21 +38,27 @@ body.home {
 	text-transform: uppercase;
 	font: 14px 'Montserrat';
 }
-#sidebar-menu > ul > li {
+#sidebar-menu-collapse > ul > li {
 	border-bottom: 1px solid #5c5c62;
 	margin-bottom: 7px;
 }
-#sidebar-menu > ul > li.active > a,
-#sidebar-menu > ul > li.active > a:hover {
+#sidebar-menu-collapse > ul > li.active > a,
+#sidebar-menu-collapse > ul > li.active > a:hover {
 	color: #a40616;
 }
-#sidebar-menu > ul > li > a {
+#sidebar-menu-collapse > ul > li > a {
 	padding-bottom: 7px;
 	display: block;
 	color: #5c5c62;
 }
-#sidebar-menu > ul > li > a:hover {
+#sidebar-menu-collapse > ul > li > a:hover {
 	color: #d5d5d5;
+}
+#sidebar-menu {
+	min-height: 30px;
+}
+#sidebar-menu .navbar-toggle {
+	float: left;
 }
 
 /* FOOTER */

@@ -26,14 +26,14 @@
 <nav id="pre-navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
 	<div class="container-fluid">
 		<div class="navbar-header">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#hce-pre-navbar-collapse">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#pre-navbar-collapse">
 				<span class="sr-only">Mostrar/Ocultar menú</span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
 		</div>
-		<div class="collapse navbar-collapse" id="hce-pre-navbar-collapse">
+		<div class="collapse navbar-collapse" id="pre-navbar-collapse">
 			<ul id="navbar-main" class="nav navbar-nav">
 				<li class="active"><a href="">Producciones Tribueñe</a></li>
 				<li><a href="">Otras producciones</a></li>
@@ -55,15 +55,20 @@
 
 	<div class="row">
 		<nav id="sidebar-menu" class="col-sm-3 col-md-2">
-		<ul class="list-unstyled">
-			<li><a href="">Programación</a></li>
-			<li class="active"><a href="">Noticias</a></li>
-			<li><a href="">Compañía Tribueñe</a></li>
-			<li><a href="">Dónde estamos</a></li>
-			<li><a href="">Entradas</a></li>
-			<li><a href="">Fotos y vídeos</a></li>
-			<li><a href="">Contacta</a></li>
-		</ul>
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#sidebar-menu-collapse">
+				<span>Mostrar/Ocultar secciones</span>
+			</button>
+			<div class="collapse navbar-collapse" id="sidebar-menu-collapse">
+				<ul class="list-unstyled">
+					<li><a href="">Programación</a></li>
+					<li class="active"><a href="">Noticias</a></li>
+					<li><a href="">Compañía Tribueñe</a></li>
+					<li><a href="">Dónde estamos</a></li>
+					<li><a href="">Entradas</a></li>
+					<li><a href="">Fotos y vídeos</a></li>
+					<li><a href="">Contacta</a></li>
+				</ul>
+			</div>
 		</nav>
 
 		<main id="content" class="col-sm-9 col-md-10">
