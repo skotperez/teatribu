@@ -10,6 +10,10 @@ body.home {
 /* JOKERS */
 .text-right { text-align: right; }
 .text-up { text-transform: uppercase; }
+.entypo-social {
+	font: 32px/24px 'Entypo Social';
+	vertical-align: middle;
+}
 
 /* HEADER */
 #pre {
@@ -36,13 +40,14 @@ body.home {
 }
 #sidebar-menu > ul > li {
 	border-bottom: 1px solid #5c5c62;
+	margin-bottom: 7px;
 }
 #sidebar-menu > ul > li.active > a,
 #sidebar-menu > ul > li.active > a:hover {
 	color: #a40616;
 }
 #sidebar-menu > ul > li > a {
-	padding: 5px 0;
+	padding-bottom: 7px;
 	display: block;
 	color: #5c5c62;
 }
@@ -52,7 +57,6 @@ body.home {
 
 /* FOOTER */
 #epi {
-	margin-top: 30px;
 	margin-bottom: 15px;
 	color: #fff;
 	font: 10px/14px Montserrat;

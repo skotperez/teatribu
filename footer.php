@@ -20,7 +20,7 @@
 					La taquilla abre 1 hora antes de cada espectáculo
 				</div>
 				<div class="col-sm-4 epi-col text-right text-up">
-					Síguenos en<br />
+					Síguenos <a href="http://twitter.com/TeatroTribuene"><span class="entypo-social">&#62217;</span></a> <a href="http://facebook.com/pages/Teatro-Tribueñe/283458045110407"><span class="entypo-social">&#62220;</span></a><br />
 					Suscríbete al <a href="">Boletín de noticias</a>
 				</div>
 			</div>
