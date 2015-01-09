@@ -34,7 +34,7 @@
 			</button>
 		</div>
 		<div class="collapse navbar-collapse" id="pre-navbar-collapse">
-			<ul id="navbar-main" class="nav navbar-nav">
+			<ul id="pre-navbar-main" class="nav navbar-nav">
 				<li class="active"><a href="">Producciones Tribueñe</a></li>
 				<li><a href="">Otras producciones</a></li>
 				<li><a href="">Campañas escolares</a></li>
@@ -49,7 +49,7 @@
 		<div id="pre-logo" class="col-xs-4 col-sm-3 col-md-2">
 			<a href=""><img src="images/logo.png" alt="Logo Teatro Tribueñe" /></a>
 		</div>
-		<div id="pre-main-tit" class="col-xs-8 col-sm-6">Teatro Tribueñe</div>
+		<div id="pre-tit" class="col-xs-8 col-sm-6">Teatro Tribueñe</div>
 		<div id="pre-extra" class="col-sm-3 col-md-4"><div class="pull-right">Premio Ojo Crítico de Teatro RNE</div></div>
 	</header><!-- #pre -->
 
