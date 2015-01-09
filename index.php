@@ -15,6 +15,31 @@
 			</div>
 		</div>
 	</article><!-- .featured-item -->
+	<div class="clearfix"></div>
+	<article class="featured-item featured-item-left col-sm-6">
+		<div class="featured-item-bg"style="background-image: url('images/home.img.02.png');">
+			<div class="featured-item-text">
+				<header>
+					<div class="featured-item-date text-up">Del 26 de abril al 24 de junio</div>
+					<h3 class="featured-item-tit text-up">La casa de Bernarda Alba</h3>
+				</header>
+				<div class="featured-item-author">de Federico García Lorca</div>
+				<div class="featured-item-director">Dirección Irina Kouberskaya</div>
+			</div>
+		</div>
+	</article><!-- .featured-item -->
+	<article class="featured-item featured-item-right col-sm-6">
+		<div class="featured-item-bg"style="background-image: url('images/home.img.03.png');">
+			<div class="featured-item-text">
+				<header>
+					<div class="featured-item-date text-up">Del 26 de abril al 24 de junio</div>
+					<h3 class="featured-item-tit text-up">Caminos</h3>
+				</header>
+				<div class="featured-item-author">de Federico García Lorca</div>
+				<div class="featured-item-director">Dirección Irina Kouberskaya</div>
+			</div>
+		</div>
+	</article><!-- .featured-item -->
 </section><!-- #featured -->
 
 <section id="social" class="row sec">
