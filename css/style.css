@@ -34,6 +34,9 @@ body.home {
 	font: 400 52px/60px 'Montserrat',"Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 }
+#pre-navbar-main li:first-child a {
+	padding-left: 0;
+}
 
 /* SIDEBAR MENU */
 #sidebar-menu {
