@@ -106,11 +106,10 @@ body.home {
 .sec {
 	padding-bottom: 30px;
 }
-.featured-item-left {
-	padding-right: 0;
-}
-.featured-item-right {
-	padding-left: 0;
+
+@media (min-width: 970px) {
+	.featured-item-left { padding-right: 0; }
+	.featured-item-right {	padding-left: 0; }
 }
 .featured-item-bg {
 	background-size: cover;
@@ -123,7 +122,7 @@ body.home {
 	background-color: rgba(164,6,22,0.6);
 	position: absolute;
 	width: 100%;
-	padding: 1% 2%;
+	padding: 10px 20px;
 	bottom: 0;
 	font: 300 15px/1.1em 'Lato';
 }

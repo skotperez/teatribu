@@ -2,7 +2,7 @@
 
 <section id="featured" class="row sec">
 	<header class="hidden"><h1>Teatro Tribueñe</h1></header>
-	<article class="featured-item col-sm-12">
+	<article class="featured-item col-md-12">
 		<div class="featured-item-bg"style="background-image: url('images/home.img.01.png');">
 			<div class="featured-item-text">
 				<header>
@@ -15,8 +15,8 @@
 			</div>
 		</div>
 	</article><!-- .featured-item -->
-	<div class="clearfix"></div>
-	<article class="featured-item featured-item-left col-sm-6">
+	<div class="clearfix visible-md visible-lg"></div>
+	<article class="featured-item featured-item-left col-md-6">
 		<div class="featured-item-bg"style="background-image: url('images/home.img.02.png');">
 			<div class="featured-item-text">
 				<header>
@@ -28,7 +28,7 @@
 			</div>
 		</div>
 	</article><!-- .featured-item -->
-	<article class="featured-item featured-item-right col-sm-6">
+	<article class="featured-item featured-item-right col-md-6">
 		<div class="featured-item-bg"style="background-image: url('images/home.img.03.png');">
 			<div class="featured-item-text">
 				<header>
