@@ -23,7 +23,7 @@ body.home {
 	text-transform: uppercase;
 	font: 10px 'Montserrat';
 }
-#pre-main {
+#pre-extra {
 	text-transform: uppercase;
 	font: 300 17px 'Ubuntu';
 }
@@ -67,6 +67,24 @@ body.home {
 #epi a:hover {
 	color: #d5d5d5;
 }
+@media (max-width: 749px) {
+	#epi { 
+	border-top: 1px solid #5c5c62;
+	}
+	.epi-col {
+	padding-bottom: 15px;
+	}
+}
+
+@media (min-width: 750px) and (max-width: 969px) {
+	.epi-col-up {
+	border-top: 1px solid #5c5c62;
+	padding-bottom: 15px;
+
+	}
+}
+@media (min-width: 970px) {
+
 .epi-col {
 	padding-top: 15px;
 	padding-left: 0;
@@ -75,6 +93,8 @@ body.home {
 .epi-col:last-child {
 	padding-left: 15px;
 	padding-right: 0;
+	text-align: right;
+}
 }
 
 /* HOME */

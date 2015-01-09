@@ -46,17 +46,15 @@
 
 <div class="container">
 	<header id="pre" class="row">
-		<div id="pre-logo" class="col-sm-2">
+		<div id="pre-logo" class="col-xs-4 col-sm-3 col-md-2">
 			<a href=""><img src="images/logo.png" alt="Logo Teatro Tribueñe" /></a>
 		</div>
-		<div id="pre-main" class="col-sm-10">
-			<div class="pull-right">Premio Ojo Crítico de Teatro RNE</div>
-			<div id="pre-main-tit" >Teatro Tribueñe</div>
-		</div>
+		<div id="pre-main-tit" class="col-xs-8 col-sm-6">Teatro Tribueñe</div>
+		<div id="pre-extra" class="col-sm-3 col-md-4"><div class="pull-right">Premio Ojo Crítico de Teatro RNE</div></div>
 	</header><!-- #pre -->
 
 	<div class="row">
-		<nav id="sidebar-menu" class="col-sm-2">
+		<nav id="sidebar-menu" class="col-sm-3 col-md-2">
 		<ul class="list-unstyled">
 			<li><a href="">Programación</a></li>
 			<li class="active"><a href="">Noticias</a></li>
@@ -68,4 +66,4 @@
 		</ul>
 		</nav>
 
-		<main id="content" class="col-sm-10">
+		<main id="content" class="col-sm-9 col-md-10">
