@@ -151,7 +151,9 @@ body.home {
 	text-transform: uppercase;
 }
 
-/* ARCHIVE */
+/* ARCHIVES:
+ * PROGRAMACION & NEWS
+ */
 #main-tit {
 	margin-top: 0;
 	margin-bottom: 1em;
@@ -192,6 +194,19 @@ body.home {
 }
 @media (max-width: 749px) {
 	.list-item-data { padding-left: 0; }
+}
+
+.new-item {
+	margin-bottom: 30px;
+}
+.new-item-date {
+	color: #a40616;
+	font: 400 17px/1.1em 'Lato';
+}
+.new-item-tit {
+	margin: 0 0 5px;
+	color: #d80e2b;
+	font: 400 17px/1.1em 'Lato';
 }
 
 /* PROGRAMACION SINGLE */
