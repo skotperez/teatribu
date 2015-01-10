@@ -152,7 +152,7 @@ body.home {
 }
 
 /* ARCHIVE */
-#main-tit h1 {
+#main-tit {
 	margin-top: 0;
 	margin-bottom: 1em;
 	font: 21px/1.1em 'Montserrat';
@@ -192,3 +192,33 @@ body.home {
 }
 @media (max-width: 749px) {
 	.list-item-data { padding-left: 0; }
+}
+
+/* PROGRAMACION SINGLE */
+.single-text {
+	color: #fff;
+	background-color: rgba(164,6,22,1);
+	padding: 10px 20px;
+	font: 300 17px/1.1em 'Lato';
+	margin-bottom: 30px;
+}
+.single-tit {
+	color: #fff;
+	font: 400 24px 'Lato';
+	margin: 0 0 5px;
+}
+.single-data {
+	width: 50%;
+	font: 400 15px 'Lato';
+}
+.single-extra li a {
+	text-transform: uppercase;
+	font: 15px/1.1em 'Montserrat';
+	color: #d80e2b;
+	letter-spacing: 0.15em;
+}
+#single-extra-tickets a {
+	font: 700 17px/1.1em 'Montserrat';
+	color: #a40616;
+	letter-spacing: 0.15em;
+}

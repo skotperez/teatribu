@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 
 <section id="season" class="sec">
-	<header id="main-tit" class="row text-right text-up"><h1 class="col-sm-12">Programación <span class="vivo">Temporada 2014</span></h1></header>
+	<header class="row text-right text-up"><h1 id="main-tit" class="col-sm-12">Programación <span class="vivo">Temporada 2014</span></h1></header>
 	<article class="col-sm-12 list-item"><div class="row">
 		<div class="col-md-4 list-item-img"><a href="#"><img class="img-responsive" src="images/programacion.img.01.png" alt="Bodas de Sangre" /></a></div>
 		<div class="col-sm-7 col-md-5 list-item-text">
