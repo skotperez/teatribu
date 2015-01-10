@@ -62,7 +62,15 @@
 				<ul class="list-unstyled">
 					<li><a href="">Programación</a></li>
 					<li class="active"><a href="">Noticias</a></li>
-					<li><a href="">Compañía Tribueñe</a></li>
+					<li><a href="">Compañía Tribueñe</a>
+						<ul class="list-unstyled sublist">
+							<li><a href="">Dirección</a></li>
+							<li><a href="">Actores</a></li>
+							<li><a href="">Equipo técnico</a></li>
+							<li><a href="">Premios</a></li>
+							<li><a href="">Giras</a></li>
+						</ul>
+					</li>
 					<li><a href="">Dónde estamos</a></li>
 					<li><a href="">Entradas</a></li>
 					<li><a href="">Fotos y vídeos</a></li>

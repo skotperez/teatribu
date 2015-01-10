@@ -59,6 +59,12 @@ body.home {
 #sidebar-menu-collapse > ul > li > a:hover {
 	color: #d5d5d5;
 }
+#sidebar-menu-collapse .sublist {
+	padding-bottom: 7px;
+}
+#sidebar-menu-collapse .sublist > li {
+	margin-bottom: 7px;
+}
 #sidebar-menu {
 	min-height: 30px;
 }
