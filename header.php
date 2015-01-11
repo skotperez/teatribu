@@ -55,10 +55,6 @@
 
 	<div class="row">
 		<nav id="sidebar-menu" class="col-sm-3 col-md-2">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#sidebar-menu-collapse">
-				<span>Mostrar/Ocultar secciones</span>
-			</button>
-			<div class="collapse navbar-collapse" id="sidebar-menu-collapse">
 				<ul class="list-unstyled">
 					<li><a href="">Programación</a></li>
 					<li class="active"><a href="">Noticias</a></li>
@@ -76,7 +72,6 @@
 					<li><a href="">Fotos y vídeos</a></li>
 					<li><a href="">Contacta</a></li>
 				</ul>
-			</div>
 		</nav>
 
 		<main id="content" class="col-sm-9 col-md-10">

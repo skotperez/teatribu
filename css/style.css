@@ -57,36 +57,27 @@ body.home {
 	text-transform: uppercase;
 	font: 12px 'Montserrat';
 }
-#sidebar-menu-collapse > ul > li {
+#sidebar-menu > ul > li {
 	border-bottom: 1px solid #5c5c62;
 	margin-bottom: 7px;
 }
-#sidebar-menu-collapse > ul > li.active > a,
-#sidebar-menu-collapse > ul > li.active > a:hover {
+#sidebar-menu > ul > li.active > a,
+#sidebar-menu > ul > li.active > a:hover {
 	color: #a40616;
 }
-#sidebar-menu-collapse > ul > li > a {
+#sidebar-menu > ul > li > a {
 	padding-bottom: 7px;
 	display: block;
 	color: #5c5c62;
 }
-#sidebar-menu-collapse > ul > li > a:hover {
+#sidebar-menu > ul > li > a:hover {
 	color: #d5d5d5;
 }
-#sidebar-menu-collapse .sublist {
+#sidebar-menu .sublist {
 	padding-bottom: 7px;
 }
-#sidebar-menu-collapse .sublist > li {
+#sidebar-menu .sublist > li {
 	margin-bottom: 7px;
-}
-#sidebar-menu {
-	min-height: 30px;
-}
-#sidebar-menu .navbar-toggle {
-	float: none;
-}
-#sidebar-menu .navbar-collapse {
-	padding: 0;
 }
 
 /* FOOTER */
