@@ -288,3 +288,15 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 .producciones-list .active a {
 	color: #fff;
 }
+.produccion-tit {
+	margin-bottom: 10px;
+	color: #d80e2b;
+}
+.produccion-data {
+	margin-bottom: 30px;
+	color: #d80e2b;
+	text-transform: none;
+}
+.produccion-img {
+	margin-bottom: 10px;
+}
