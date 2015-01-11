@@ -7,7 +7,7 @@
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut enim lectus. Curabitur convallis dolor a porttitor lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean facilisis viverra pharetra. Cras commodo, nisi vel dictum volutpat, dolor lectus tempor urna, sit amet faucibus mauris massa vel velit. Nam interdum justo eu ipsum posuere, non lacinia nisi faucibus. Ut ut nunc placerat, accumsan urna sit amet, accumsan nunc. Ut imperdiet ullamcorper massa eu malesuada. Sed eu hendrerit nunc. Fusce ut libero a metus tincidunt lacinia. Suspendisse consectetur aliquet turpis, sit amet efficitur mi tincidunt sed. Vivamus non ante libero. Phasellus arcu quam, lacinia eu lorem sit amet, semper feugiat leo.</p>
 		</div>
 		<article class="director">
-			<header><h2 class="director-tit">Irina Kouberskaya</h2></header>
+			<header><h2 class="director-tit lato-300-white">Irina Kouberskaya</h2></header>
 			<div class="director-desc">Breve curriculum: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut enim lectus. Curabitur convallis dolor a porttitor lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean facilisis viverra pharetra. Cras commodo, nisi vel dictum volutpat, dolor lectus tempor urna, sit amet faucibus mauris massa vel velit. Nam interdum justo eu ipsum posuere, non lacinia nisi faucibus.</p>
 			<ul class="list-unstyled director-extra">
 				<li><a href="">Curriculum en PDF</a></li>

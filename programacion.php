@@ -7,7 +7,7 @@
 		<div class="col-sm-7 col-md-5 list-item-text">
 			<header>
 				<div class="list-item-date text-up">Del 24 de abril al 22 de junio</div>
-				<h2 class="list-item-tit text-up">Bodas de Sangre</h2>
+				<h2 class="list-item-tit lato-500-white">Bodas de Sangre</h2>
 			</header>
 			<div class="list-item-desc">
 				<p>de Federico García Lorca<br />
@@ -30,7 +30,7 @@
 		<div class="col-sm-7 col-md-5 list-item-text">
 			<header>
 				<div class="list-item-date text-up">Del 24 de abril al 22 de junio</div>
-				<h2 class="list-item-tit text-up">Bodas de Sangre</h2>
+				<h2 class="list-item-tit lato-500-white">Bodas de Sangre</h2>
 			</header>
 			<div class="list-item-desc">
 				<p>de Federico García Lorca<br />
@@ -53,7 +53,7 @@
 		<div class="col-sm-7 col-md-5 list-item-text">
 			<header>
 				<div class="list-item-date text-up">Del 24 de abril al 22 de junio</div>
-				<h2 class="list-item-tit text-up">Bodas de Sangre</h2>
+				<h2 class="list-item-tit lato-500-white">Bodas de Sangre</h2>
 			</header>
 			<div class="list-item-desc">
 				<p>de Federico García Lorca<br />
@@ -76,7 +76,7 @@
 		<div class="col-sm-7 col-md-5 list-item-text">
 			<header>
 				<div class="list-item-date text-up">Del 24 de abril al 22 de junio</div>
-				<h2 class="list-item-tit text-up">Bodas de Sangre</h2>
+				<h2 class="list-item-tit lato-500-white">Bodas de Sangre</h2>
 			</header>
 			<div class="list-item-desc">
 				<p>de Federico García Lorca<br />

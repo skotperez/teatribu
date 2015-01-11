@@ -6,8 +6,8 @@
 		<div class="col-md-3 col-sm-push-9 new-item-img"><a href="#"><img class="img-responsive" src="images/programacion.img.01.png" alt="Bodas de Sangre" /></a></div>
 		<div class="col-sm-9 col-sm-pull-3 new-item-text">
 			<header>
-				<time class="new-item-date" datetime="2014-12-30">30/12/2014</time>
-				<h2 class="new-item-tit text-up">Nace la Academia de las Artes Escénicas de España</h2>
+				<time class="lato-300-red new-item-date" datetime="2014-12-30">30/12/2014</time>
+				<h2 class="new-item-tit lato-300-red">Nace la Academia de las Artes Escénicas de España</h2>
 			</header>
 			<div class="list-item-desc">
 				<p>El Teatro y la Danza por fin cuentan con una institución propia.</p>
@@ -18,8 +18,8 @@
 		<div class="col-md-3 col-sm-push-9 new-item-img"><a href="#"><img class="img-responsive" src="images/programacion.img.02.png" alt="Bodas de Sangre" /></a></div>
 		<div class="col-sm-9 col-sm-pull-3 new-item-text">
 			<header>
-				<time class="new-item-date" datetime="2014-12-30">30/12/2014</time>
-				<h2 class="new-item-tit text-up">Regresamos a Tribueñe a partir del 24 de abril</h2>
+				<time class="lato-300-red new-item-date" datetime="2014-12-30">30/12/2014</time>
+				<h2 class="new-item-tit lato-300-red">Regresamos a Tribueñe a partir del 24 de abril</h2>
 			</header>
 			<div class="list-item-desc">
 				<p>"LA CASA DE BERNARDA ALBA"<br />

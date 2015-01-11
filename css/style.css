@@ -15,7 +15,11 @@ body.home {
 	vertical-align: middle;
 }
 .vivo { color: #D80E2B;}
-
+.montserrat-red { font: 21px/1.1em 'Montserrat',"Helvetica Neue",Helvetica,Arial,sans-serif; text-transform: uppercase; margin: 0; }
+h2, .lato-300-red { font: 300 17px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #a40616; text-transform: uppercase; margin: 0; }
+.lato-300-white { font: 300 17px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #fff; text-transform: uppercase; margin: 0; }
+.lato-500-white { font: 500 24px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #fff; text-transform: uppercase; margin: 0; }
+p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 
 /* HEADER */
 #pre {
@@ -124,9 +128,6 @@ body.home {
 
 /* HOME */
 .sec-tit {
-	font: 300 17px/1.1em 'Lato';
-	text-transform: uppercase;
-	margin-top: 0;
 }
 .sec {
 	padding-bottom: 30px;
@@ -153,8 +154,6 @@ body.home {
 	letter-spacing: 1px;
 }
 .featured-item-tit {
-	color: #fff;
-	font: 500 24px 'Lato';
 	letter-spacing: 1px;
 	margin: 10px 0 0;
 }
@@ -198,13 +197,11 @@ body.home {
 	margin-top: 1em;
 }
 .list-item-tit {
-	color: #fff;
-	font: 700 24px 'Lato';
 	margin: 10px 0 0;
 }
 .list-item-current,
 .list-item-ticket {
-	font: 700 15px 'Lato';
+	font: 500 15px 'Lato';
 }
 .list-item-ticket {
 	color: #a40616;
@@ -221,13 +218,12 @@ body.home {
 	margin-bottom: 30px;
 }
 .new-item-date {
-	color: #a40616;
-	font: 400 17px/1.1em 'Lato';
+	font-weight: 500;
 }
 .new-item-tit {
 	margin: 0 0 5px;
 	color: #d80e2b;
-	font: 400 17px/1.1em 'Lato';
+	font-weight: 500;
 }
 
 /* PROGRAMACION SINGLE */
@@ -239,8 +235,6 @@ body.home {
 	margin-bottom: 30px;
 }
 .single-tit {
-	color: #fff;
-	font: 400 24px 'Lato';
 	margin: 0 0 5px;
 }
 .single-data {
@@ -257,4 +251,21 @@ body.home {
 	font: 700 17px/1.1em 'Montserrat';
 	color: #a40616;
 	letter-spacing: 0.15em;
+}
+
+/* DIRECCION & ACTORES */
+.director {
+	margin-bottom: 30px;
+}
+.director-tit {
+	color: #d5d5d5;
+}
+.actor-tit {
+	margin-bottom: 30px;
+}
+.actor-rel {
+	margin-bottom: 5px;
+}
+.actor-extra a {
+	color: #a40616;
 }

@@ -8,7 +8,7 @@
 				<header>
 					<div class="featured-item-current pull-right text-up">En gira</div>
 					<div class="featured-item-date text-up">Del 24 de abril al 22 de junio</div>
-					<h3 class="featured-item-tit text-up">Bodas de sangre</h3>
+					<h3 class="featured-item-tit lato-500-white">Bodas de sangre</h3>
 				</header>
 				<div class="featured-item-author">de Federico García Lorca</div>
 				<div class="featured-item-director">Dirección Irina Kouberskaya</div>
@@ -21,7 +21,7 @@
 			<div class="featured-item-text">
 				<header>
 					<div class="featured-item-date text-up">Del 26 de abril al 24 de junio</div>
-					<h3 class="featured-item-tit text-up">La casa de Bernarda Alba</h3>
+					<h3 class="featured-item-tit lato-500-white">La casa de Bernarda Alba</h3>
 				</header>
 				<div class="featured-item-author">de Federico García Lorca</div>
 				<div class="featured-item-director">Dirección Irina Kouberskaya</div>
@@ -33,7 +33,7 @@
 			<div class="featured-item-text">
 				<header>
 					<div class="featured-item-date text-up">Del 26 de abril al 24 de junio</div>
-					<h3 class="featured-item-tit text-up">Caminos</h3>
+					<h3 class="featured-item-tit lato-500-white">Caminos</h3>
 				</header>
 				<div class="featured-item-author">de Federico García Lorca</div>
 				<div class="featured-item-director">Dirección Irina Kouberskaya</div>
@@ -42,15 +42,13 @@
 	</article><!-- .featured-item -->
 </section><!-- #featured -->
 
-<section id="social" class="row sec">
-	<header class="hidden"><h2>Redes sociales</h2></header>
-	<div class="col-sm-5 col-md-3 col-lg-4">
-		<h3 class="sec-tit">Twitter</h3>
+<div class="row sec">
+	<section class="col-sm-5 col-md-3 col-lg-4">
+		<header><h2 class="sec-tit lato-300-red">Twitter</h2></header>
 		<a class="twitter-timeline"  href="https://twitter.com/TeatroTribuene" data-widget-id="553271157965979648">Tweets by @TeatroTribuene</a>
 		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-	</div>
-
-	<div class="col-sm-7 col-md-5 col-lg-4">
+	</section>
+	<section class="col-sm-7 col-md-5 col-lg-4">
 		<div id="fb-root"></div>
 		<script>(function(d, s, id) {
 		  var js, fjs = d.getElementsByTagName(s)[0];
@@ -59,18 +57,18 @@
 		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));</script>
-		<h3 class="sec-tit">Facebook</h3>
+		<header><h2 class="sec-tit lato-300-red">Facebook</h2></header>
 		<div class="fb-like-box" data-href="https://www.facebook.com/pages/Teatro-Tribue&#xf1;e/283458045110407" data-colorscheme="dark" data-show-faces="true" data-header="false" data-stream="true" data-show-border="false"></div>
-	</div>
+	</section>
 	<div class="clearfix visible-sm"></div>
-	<div class="col-sm-12 col-md-4">
-		<h3 class="sec-tit">Calendario</h3>
-	</div>
-</section>
+	<section class="col-sm-12 col-md-4">
+		<header><h2 class="sec-tit lato-300-red">Calendario</h2></header>
+	</section>
+</div>
 
 <section id="news" class="row sec">
 	<div class="col-sm-12">
-		<header><h2 class="sec-tit">Noticias</h2></header>
+		<header><h2 class="sec-tit lato-300-red">Noticias</h2></header>
 		<article class="news-item">
 			<header>
 				<time datetime="2014-12-04">04/12/2014</time>

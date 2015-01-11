@@ -9,7 +9,7 @@
 				<div class="single-currenttext-up">En gira</div>
 				<div class="single-produccion text-up">Producción propia</div>
 			</div>
-			<header><h1 class="single-tit text-up">Bodas de sangre</h1></header>
+			<header><h1 class="single-tit lato-500-white">Bodas de sangre</h1></header>
 			<div class="single-author">de Federico García Lorca</div>
 			<div class="single-director">Dirección Irina Kouberskaya</div>
 		</div></div>

@@ -3,11 +3,11 @@
 <div class="row text-right"><div id="main-tit" class="col-sm-12"><span class="text-up">Compañía Tribueñe /</span> Actores</div></div>
 <div class="row">
 	<article class="col-sm-7 single-actor">
-		<header><h1 class="director-tit">Miguel Ángel Mendo</h1></header>
+		<header><h1 class="actor-tit lato-300-white">Miguel Ángel Mendo</h1></header>
 		<div class="director-desc">
 			<p>Breve curriculum: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut enim lectus. Curabitur convallis dolor a porttitor lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean facilisis viverra pharetra. Cras commodo, nisi vel dictum volutpat, dolor lectus tempor urna, sit amet faucibus mauris massa vel velit. Nam interdum justo eu ipsum posuere, non lacinia nisi faucibus.</p>
 			<p>Actúa en:</p>
-			<ul class="list-unstyled director-extra">
+			<ul class="list-unstyled actor-extra">
 				<li><a href="">Regreso al hogar</a></li>
 				<li><a href="">El jardín de los cerezos</a></li>
 			</ul>
