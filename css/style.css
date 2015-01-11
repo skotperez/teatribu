@@ -66,8 +66,12 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 	margin-bottom: 7px;
 }
 #sidebar-menu > ul > li.active > a,
+#sidebar-menu > ul > li > a.active,
 #sidebar-menu > ul > li.active > a:hover {
 	color: #a40616;
+}
+#sidebar-menu > ul > li > a:focus {
+	outline: none;
 }
 #sidebar-menu > ul > li > a {
 	padding-bottom: 7px;

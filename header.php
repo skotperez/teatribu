@@ -57,7 +57,7 @@
 				<ul class="list-unstyled">
 					<li><a href="">Programación</a></li>
 					<li class="active"><a href="">Noticias</a></li>
-					<li><a href="">Compañía Tribueñe</a>
+					<li class="menu-item-has-children"><a href="">Compañía Tribueñe</a>
 						<ul class="list-unstyled sublist">
 							<li><a href="">Dirección</a></li>
 							<li><a href="">Actores</a></li>
