@@ -16,11 +16,11 @@
     "@link-color": "@gray-light",
     "@link-hover-color": "darken(@link-color, 15%)",
     "@link-hover-decoration": "none",
-    "@font-family-sans-serif": "\"Ubuntu condensed\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "@font-family-sans-serif": "\"Libre Baskerville\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
     "@font-family-serif": "Georgia, \"Times New Roman\", Times, serif",
     "@font-family-monospace": "Menlo, Monaco, Consolas, \"Courier New\", monospace",
     "@font-family-base": "@font-family-sans-serif",
-    "@font-size-base": "17px",
+    "@font-size-base": "13px",
     "@font-size-large": "ceil((@font-size-base * 1.25))",
     "@font-size-small": "ceil((@font-size-base * 0.85))",
     "@font-size-h1": "floor((@font-size-base * 3.05))",
@@ -29,7 +29,7 @@
     "@font-size-h4": "ceil((@font-size-base * 1.47))",
     "@font-size-h5": "ceil((@font-size-base * 1.47))",
     "@font-size-h6": "ceil((@font-size-base * 0.85))",
-    "@line-height-base": "1.470588235",
+    "@line-height-base": "1.6",
     "@line-height-computed": "floor((@font-size-base * @line-height-base))",
     "@headings-font-family": "Montserrat, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
     "@headings-font-weight": "400",
@@ -425,5 +425,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=b2b6dacfbdc3d0d14311"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=8be600bbecd09d796efa"
 }
