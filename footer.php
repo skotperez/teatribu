@@ -2,7 +2,7 @@
 		</main><!-- #content -->
 	</div><!-- .row-->
 
-	<footer id="epi" class="row">
+	<footer id="epi" class="row end">
 		<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2">
 			<div class="col-sm-6 col-md-3 epi-col epi-col-up">
 				Teatro Tribueñe<br />
@@ -22,6 +22,9 @@
 			</div>
 		</div>
 	</footer><!-- #epi -->
+	<div id="credits" class="row end">
+		<div class="col-sm-12 text-right"><small>Diseño: Ángela Gómez Perea | Desarrollo: <a href="http://montera34.com">m34</a> + ?</small></div>
+	</div><!-- #credits -->
 </div><!-- .container -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

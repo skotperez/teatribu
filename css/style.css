@@ -81,16 +81,19 @@ body.home {
 }
 
 /* FOOTER */
-#epi {
+.end {
 	margin-bottom: 15px;
 	color: #fff;
 	font: 100 13px/15px 'Lato';
 	letter-spacing: 0.5px;
 }
-#epi a {
+#credits {
 	color: #5c5c62;
 }
-#epi a:hover {
+.end a {
+	color: #5c5c62;
+}
+.end a:hover {
 	color: #d5d5d5;
 }
 @media (max-width: 749px) {
