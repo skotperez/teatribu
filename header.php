@@ -9,7 +9,6 @@
 <title>Teatro Tribueñe</title>
 
 <link rel='stylesheet' href='css/bootstrap.min.css?ver=4.1' type='text/css' media='all' />
-<!--<link href='http://fonts.googleapis.com/css?family=Montserrat|Ubuntu+Condensed' rel='stylesheet' type='text/css'>-->
 <link rel='stylesheet' href='fonts/fonts.css' type='text/css' media='all' />
 <link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
 

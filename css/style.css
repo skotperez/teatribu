@@ -269,3 +269,22 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 .actor-extra a {
 	color: #a40616;
 }
+
+/* PRODUCCIONES */
+.producciones-list {
+	font-size: 13px;
+	margin-bottom: 30px;
+}
+.producciones-list li {
+	margin-bottom: 1em;
+}
+.producciones-list a {
+	color: #d80e2b;
+	text-transform: uppercase;
+}
+.producciones-list a:hover {
+	color: #a40616;
+}
+.producciones-list .active a {
+	color: #fff;
+}
