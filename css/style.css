@@ -70,7 +70,7 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 #sidebar-menu > ul > li.active > a:hover {
 	color: #a40616;
 }
-#sidebar-menu > ul > li > a:focus {
+#sidebar-menu a:focus {
 	outline: none;
 }
 #sidebar-menu > ul > li > a {
@@ -188,6 +188,9 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 	margin-bottom: 15px;
 	border-bottom: 1px dotted #5c5c62;
 	padding-bottom: 15px;
+}
+.list-item:hover {
+	background-color: rgba(0,0,0,0.3);
 }
 .list-item:last-child {
 	border-bottom: none;

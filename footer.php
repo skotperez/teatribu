@@ -23,7 +23,7 @@
 		</div>
 	</footer><!-- #epi -->
 	<div id="credits" class="row end">
-		<div class="col-sm-12 text-right"><small>Diseño: Ángela Gómez Perea | Desarrollo: <a href="http://montera34.com">m34</a> + ?</small></div>
+		<div class="col-sm-12 text-right"><small>Desarrollo: <a href="http://montera34.com">m34</a> + ?</small></div>
 	</div><!-- #credits -->
 </div><!-- .container -->
 
