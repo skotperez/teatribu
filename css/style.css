@@ -11,7 +11,7 @@ body.home {
 .text-right { text-align: right; }
 .text-up { text-transform: uppercase; }
 .entypo-social {
-	font: 32px/24px 'Entypo Social';
+	font: 24px/24px 'Entypo Social';
 	vertical-align: middle;
 }
 .vivo { color: #D80E2B;}
@@ -21,27 +21,41 @@ body.home {
 #pre {
 	margin-bottom: 30px;
 }
+#pre-logo a {
+	display: block;
+}
 #pre-navbar {
 	text-transform: uppercase;
-	font: 10px 'Montserrat';
+	font: 11px 'Montserrat';
 }
 #pre-extra {
 	text-transform: uppercase;
-	font: 300 17px 'Ubuntu';
+	font: 300 14px 'Ubuntu';
 }
 #pre-tit {
 	color: #a40616;
-	font: 400 52px/60px 'Montserrat',"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 500 46px/50px 'Museo Sans',"Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
+	letter-spacing: 8px;
 }
 #pre-navbar-main li:first-child a {
 	padding-left: 0;
 }
 
+@media (max-width: 991px) {
+	#pre-tit { font-size: 32px; line-height: 36px; text-align: right; }
+	#pre-extra { font-size: 12px; }
+	#pre-logo img { width: 70px; }
+}
+@media (max-width: 767px) {
+	#pre-extra { margin-right: 8px; }
+}
+
+
 /* SIDEBAR MENU */
 #sidebar-menu {
 	text-transform: uppercase;
-	font: 14px 'Montserrat';
+	font: 12px 'Montserrat';
 }
 #sidebar-menu-collapse > ul > li {
 	border-bottom: 1px solid #5c5c62;
@@ -79,7 +93,8 @@ body.home {
 #epi {
 	margin-bottom: 15px;
 	color: #fff;
-	font: 10px/14px Montserrat;
+	font: 100 13px/15px 'Lato';
+	letter-spacing: 0.5px;
 }
 #epi a {
 	color: #5c5c62;
@@ -115,7 +130,7 @@ body.home {
 
 /* HOME */
 .sec-tit {
-	font: 300 20px/1.1em 'Opensans Condensed';
+	font: 300 17px/1.1em 'Lato';
 	text-transform: uppercase;
 	margin-top: 0;
 }
@@ -140,12 +155,17 @@ body.home {
 	width: 100%;
 	padding: 10px 20px;
 	bottom: 0;
-	font: 300 15px/1.1em 'Lato';
+	font: 300 14px/1.1em 'Lato';
+	letter-spacing: 1px;
 }
 .featured-item-tit {
 	color: #fff;
-	font: 700 24px 'Lato';
+	font: 500 24px 'Lato';
+	letter-spacing: 1px;
 	margin: 10px 0 0;
+}
+.featured-item-current {
+	font-weight: 500;
 }
 .news-item {
 	margin-bottom: 1em;
