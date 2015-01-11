@@ -139,7 +139,7 @@ body.home {
 .featured-item-bg {
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: top center;
+	background-position: top left;
 	min-height: 250px;
 	position: relative;
 }
