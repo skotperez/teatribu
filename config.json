@@ -23,9 +23,9 @@
     "@font-size-base": "13px",
     "@font-size-large": "ceil((@font-size-base * 1.25))",
     "@font-size-small": "ceil((@font-size-base * 0.85))",
-    "@font-size-h1": "floor((@font-size-base * 3.05))",
-    "@font-size-h2": "floor((@font-size-base * 2.12))",
-    "@font-size-h3": "ceil((@font-size-base * 1.06))",
+    "@font-size-h1": "floor((@font-size-base * 1.615))",
+    "@font-size-h2": "floor((@font-size-base * 1.308))",
+    "@font-size-h3": "ceil((@font-size-base * 1.846))",
     "@font-size-h4": "ceil((@font-size-base * 1.47))",
     "@font-size-h5": "ceil((@font-size-base * 1.47))",
     "@font-size-h6": "ceil((@font-size-base * 0.85))",
@@ -33,7 +33,7 @@
     "@line-height-computed": "floor((@font-size-base * @line-height-base))",
     "@headings-font-family": "Montserrat, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
     "@headings-font-weight": "400",
-    "@headings-line-height": "1.15",
+    "@headings-line-height": "1.1",
     "@headings-color": "@brand-primary",
     "@icon-font-path": "\"../fonts/\"",
     "@icon-font-name": "\"glyphicons-halflings-regular\"",
@@ -425,5 +425,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=8be600bbecd09d796efa"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=3d240bf06068c1459c4e"
 }

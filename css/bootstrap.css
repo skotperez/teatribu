@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=8be600bbecd09d796efa)
- * Config saved to config.json and https://gist.github.com/8be600bbecd09d796efa
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=3d240bf06068c1459c4e)
+ * Config saved to config.json and https://gist.github.com/3d240bf06068c1459c4e
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -1001,7 +1001,7 @@ h6,
 .h6 {
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  line-height: 1.15;
+  line-height: 1.1;
   color: #a40616;
 }
 h1 small,
@@ -1080,15 +1080,15 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 39px;
+  font-size: 20px;
 }
 h2,
 .h2 {
-  font-size: 27px;
+  font-size: 17px;
 }
 h3,
 .h3 {
-  font-size: 14px;
+  font-size: 24px;
 }
 h4,
 .h4 {
