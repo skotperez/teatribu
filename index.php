@@ -42,6 +42,14 @@
 	</article><!-- .featured-item -->
 </section><!-- #featured -->
 
+<section id="welcome" class="row sec">
+	<div class="col-sm-12">
+	<p>Texto de bienvenida o introducción</p>
+	</div>
+
+</section><!-- #welcome text -->
+
+
 <div class="row sec">
 	<section class="col-sm-5 col-md-3 col-lg-4">
 		<header><h2 class="sec-tit lato-300-red">Twitter</h2></header>
