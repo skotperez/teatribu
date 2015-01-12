@@ -1,10 +1,23 @@
-body {
-	margin-top: 50px;
-}
+/* BACKGROUND IMAGES */
 body.home {
 	background-image: url('../images/home.bg.png');
 	background-repeat: no-repeat;
 	background-position: center 30px;
+}
+.producciones .main-container {
+	background-image: url('../images/producciones.bg.png');
+	background-repeat: no-repeat;
+	background-position: right -65px;
+	padding-top: 20px;
+}
+.producciones #pre-navbar {
+	margin-bottom: 0;
+}
+.producciones-footer {
+	background-image: url('../images/producciones.bg.footer.png');
+	background-repeat: no-repeat;
+	background-position: right 15px bottom;
+	padding-bottom: 270px;
 }
 
 /* JOKERS */

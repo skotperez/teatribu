@@ -20,7 +20,7 @@
 	<![endif]-->
 
 </head>
-<body class="home">
+<body class="producciones">
 
 <nav id="pre-navbar" class="navbar navbar-default navbar-static-top" role="navigation">
 	<div class="container">

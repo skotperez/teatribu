@@ -1,7 +1,7 @@
-<?php include('header.php'); ?>
+<?php include('header-producciones.php'); ?>
 
 <div class="row text-right text-up"><div id="main-tit" class="col-sm-12">Producciones Tribueñe</div></div>
-<div class="row">
+<div class="row producciones-footer">
 	<article class="col-sm-8">
 		<figure class="produccion-img"><img class="img-responsive" src="images/producciones.01.png" alt="Donde mira el ruiseñor cuando cruje una rama" /></figure>
 		<header><h1 class="produccion-tit lato-500-white">Donde mira el ruiseñor cuando cruje una rama</h1></header>
