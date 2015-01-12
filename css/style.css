@@ -11,14 +11,14 @@ body.home {
 .text-right { text-align: right; }
 .text-up { text-transform: uppercase; }
 .entypo-social {
-	font: 24px/24px 'Entypo Social';
+	font: 24px/15px 'Entypo Social';
 	vertical-align: middle;
 }
 .vivo { color: #D80E2B;}
 .montserrat-red { font: 21px/1.1em 'Montserrat',"Helvetica Neue",Helvetica,Arial,sans-serif; text-transform: uppercase; margin: 0; }
 h2, .lato-300-red { font: 300 17px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #a40616; text-transform: uppercase; margin: 0; }
 .lato-300-white { font: 300 17px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #fff; text-transform: uppercase; margin: 0; }
-.lato-500-white { font: 500 24px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #fff; text-transform: uppercase; margin: 0; }
+.lato-500-white { font: 500 24px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #fff; letter-spacing: 1px; text-transform: uppercase; margin: 0; }
 p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 
 /* HEADER */
@@ -34,7 +34,7 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 }
 #pre-extra {
 	text-transform: uppercase;
-	font: 300 14px 'Ubuntu';
+	font: 300 13px 'Lato';
 }
 #pre-tit {
 	color: #a40616;
@@ -131,8 +131,6 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 }
 
 /* HOME */
-.sec-tit {
-}
 .sec {
 	padding-bottom: 30px;
 }
@@ -180,8 +178,8 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 #main-tit {
 	margin-top: 0;
 	margin-bottom: 1em;
-	font: 21px/1.1em 'Montserrat';
-	letter-spacing: 0.15em;
+	font: 20px/1.1em 'Montserrat';
+	letter-spacing: 1px;
 	color: #a40616;
 }
 .list-item {
@@ -200,15 +198,16 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 }
 .list-item-text,
 .list-item-data {
-	font: 300 15px/1.1em 'Lato';
+	font: 300 14px/1.1em 'Lato';
 	margin-top: 1em;
+	letter-spacing: 0.5px;
 }
 .list-item-tit {
 	margin: 10px 0 0;
 }
 .list-item-current,
 .list-item-ticket {
-	font: 500 15px 'Lato';
+	font: 500 14px 'Montserrat';
 }
 .list-item-ticket {
 	color: #a40616;
@@ -250,12 +249,12 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 }
 .single-extra li a {
 	text-transform: uppercase;
-	font: 15px/1.1em 'Montserrat';
+	font: 13px/1.1em 'Montserrat';
 	color: #d80e2b;
 	letter-spacing: 0.15em;
 }
 #single-extra-tickets a {
-	font: 700 17px/1.1em 'Montserrat';
+	font: 700 15px/1.1em 'Montserrat';
 	color: #a40616;
 	letter-spacing: 0.15em;
 }
