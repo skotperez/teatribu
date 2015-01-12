@@ -26,8 +26,8 @@
 		</div>
 	</div></article>
 	<article class="col-sm-12 list-item"><div class="row">
-		<div class="col-md-4 list-item-img"><a href="#"><img class="img-responsive" src="images/programacion.img.02.png" alt="Bodas de Sangre" /></a></div>
-		<div class="col-sm-7 col-md-5 list-item-text">
+		<div class="col-md-3 list-item-img"><a href="#"><img class="img-responsive" src="images/programacion.img.02.png" alt="Bodas de Sangre" /></a></div>
+		<div class="col-sm-7 col-md-6 list-item-text">
 			<header>
 				<div class="list-item-date text-up">Del 24 de abril al 22 de junio</div>
 				<h2 class="list-item-tit lato-500-white">Bodas de Sangre</h2>
@@ -49,8 +49,8 @@
 		</div>
 	</div></article>
 	<article class="col-sm-12 list-item"><div class="row">
-		<div class="col-md-4 list-item-img"><a href="#"><img class="img-responsive" src="images/programacion.img.03.png" alt="Bodas de Sangre" /></a></div>
-		<div class="col-sm-7 col-md-5 list-item-text">
+		<div class="col-md-3 list-item-img"><a href="#"><img class="img-responsive" src="images/programacion.img.03.png" alt="Bodas de Sangre" /></a></div>
+		<div class="col-sm-7 col-md-6 list-item-text">
 			<header>
 				<div class="list-item-date text-up">Del 24 de abril al 22 de junio</div>
 				<h2 class="list-item-tit lato-500-white">Bodas de Sangre</h2>
@@ -72,8 +72,8 @@
 		</div>
 	</div></article>
 	<article class="col-sm-12 list-item"><div class="row">
-		<div class="col-md-4 list-item-img"><a href="#"><img class="img-responsive" src="images/programacion.img.04.png" alt="Bodas de Sangre" /></a></div>
-		<div class="col-sm-7 col-md-5 list-item-text">
+		<div class="col-md-3 list-item-img"><a href="#"><img class="img-responsive" src="images/programacion.img.04.png" alt="Bodas de Sangre" /></a></div>
+		<div class="col-sm-7 col-md-6 list-item-text">
 			<header>
 				<div class="list-item-date text-up">Del 24 de abril al 22 de junio</div>
 				<h2 class="list-item-tit lato-500-white">Bodas de Sangre</h2>
