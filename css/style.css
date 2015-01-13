@@ -43,7 +43,7 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 }
 #pre-navbar {
 	text-transform: uppercase;
-	font: 11px 'Montserrat';
+	font: 12px 'Montserrat';
 }
 #pre-extra {
 	text-transform: uppercase;
@@ -72,7 +72,7 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 /* SIDEBAR MENU */
 #sidebar-menu {
 	text-transform: uppercase;
-	font: 12px 'Montserrat';
+	font: 13px 'Montserrat';
 }
 #sidebar-menu > ul > li {
 	border-bottom: 1px solid #5c5c62;
@@ -165,7 +165,7 @@ p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 	width: 100%;
 	padding: 10px 20px;
 	bottom: 0;
-	font: 300 14px/1.1em 'Lato';
+	font: 400 14px/1.1em 'Lato';
 	letter-spacing: 1px;
 }
 .featured-item-tit {
