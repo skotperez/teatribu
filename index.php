@@ -76,22 +76,25 @@
 
 <section id="news" class="row sec">
 	<div class="col-sm-12">
-		<header><h2 class="sec-tit lato-300-red">Noticias</h2></header>
+		<header><h2 class="sec-tit lato-300-red">Noticias</h2></header>		
 		<article class="news-item">
 			<header>
-				<time datetime="2014-12-04">04/12/2014</time>
-				<h3 class="news-item-tit"><a href="">Paseillo de Hugo Pérez de la Pica</a></h3>
+				<time class="lato-300-red new-item-date" datetime="2014-12-04">04/12/2014</time>
+				<h2 class="new-item-tit lato-300-red"><a href="">Paseillo de Hugo Pérez de la Pica</a></h2>
 			</header>
+
 			<div class="news-item-desc">Una celebración estertórica, la intrahistoria de los restos de la fiesta. Una visión nueva de los engranajes y esencias. El arte de torear y alrededores. Bailado, cantado y recitado. Lo majo, lo curro, lo manolo, lo flamenco dónde y cuándo se diluyeron.</div>
+
 		</article>
 		<article class="news-item">
 			<header>
-				<time datetime="2014-12-01">01/12/2014</time>
-				<h3 class="news-item-tit"><a href="">¡Este puente ven al teatro!</a></h3>
+				<time class="lato-300-red new-item-date" datetime="2014-12-01">01/12/2014</time>
+				<h2 class="new-item-tit lato-300-red"><a href="">¡Este puente ven al teatro!</a></h2>
 			</header>
 			<div class="news-item-desc">Os esperamos en Tribueñe con: "Navegando por ideas escondidas" jueves a las 20h, "Bodas de sangre" viernes a las 20h y "Regreso al hogar" sábados y domingos a las 19h.</div>
 		</article>
 	</div>
+
 </section><!-- #news -->
 
 <?php include('footer.php'); ?>
