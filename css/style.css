@@ -24,12 +24,12 @@ body.home {
 .text-right { text-align: right; }
 .text-up { text-transform: uppercase; }
 .entypo-social {
-	font: 24px/15px 'Entypo Social';
-	vertical-align: middle;
+	font: 28px/0px 'Entypo Social';
+	vertical-align: top;
 }
 .vivo { color: #D80E2B;}
 .montserrat-red { font: 21px/1.1em 'Montserrat',"Helvetica Neue",Helvetica,Arial,sans-serif; text-transform: uppercase; margin: 0; }
-h2, .lato-300-red { font: 300 17px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #a40616; text-transform: uppercase; margin: 0; }
+h2, .lato-300-red { font: 600 17px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #a40616; text-transform: uppercase; margin-bottom: 0.5em; }
 .lato-300-white { font: 300 17px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #fff; text-transform: uppercase; margin: 0; }
 .lato-500-white { font: 500 24px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #fff; letter-spacing: 1px; text-transform: uppercase; margin: 0; }
 p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
