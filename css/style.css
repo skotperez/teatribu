@@ -34,6 +34,9 @@ h2, .lato-300-red { font: 600 17px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial
 .lato-500-white { font: 500 24px/1.1em 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: #fff; letter-spacing: 1px; text-transform: uppercase; margin: 0; }
 p,ul,ol,dl,blockquote { margin-bottom: 1.5em;}
 
+p.intro { font-size: 18px; line-height: 27px; color: rgba(102, 102, 102, 1);}
+p.quote { font: 400 14px/18px 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif; color: rgba(102, 102, 102, 1);}
+
 /* HEADER */
 #pre {
 	margin-bottom: 30px;
