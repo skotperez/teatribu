@@ -33,11 +33,11 @@
 			<h2>Premios</h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim sed nisi ut imperdiet. Vestibulum eu quam nulla. Phasellus turpis leo, pharetra vel augue in, hendrerit facilisis eros. Fusce vehicula lectus nec dui vestibulum consectetur. Suspendisse sit amet faucibus est, at sagittis tortor. Mauris tempus leo vitae vulputate tristique. Suspendisse sem justo, consectetur malesuada nisi a, gravida dictum ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et blandit ipsum. </p>
 			<h2>Críticas</h2>
-			<p.quote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim sed nisi ut imperdiet. Vestibulum eu quam nulla. Phasellus turpis leo, pharetra vel augue in, hendrerit facilisis eros. Fusce vehicula lectus nec dui vestibulum consectetur. Suspendisse sit amet faucibus est, at sagittis tortor. Mauris tempus leo vitae vulputate tristique. Suspendisse sem justo, consectetur malesuada nisi a, gravida dictum ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et blandit ipsum. </p>
-			<p.quote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim sed nisi ut imperdiet. Vestibulum eu quam nulla. Phasellus turpis leo, pharetra vel augue in, hendrerit facilisis eros. Fusce vehicula lectus nec dui vestibulum consectetur. Suspendisse sit amet faucibus est, at sagittis tortor. Mauris tempus leo vitae vulputate tristique. Suspendisse sem justo, consectetur malesuada nisi a, gravida dictum ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et blandit ipsum. </p>
+			<p class="quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim sed nisi ut imperdiet. Vestibulum eu quam nulla. Phasellus turpis leo, pharetra vel augue in, hendrerit facilisis eros. Fusce vehicula lectus nec dui vestibulum consectetur. Suspendisse sit amet faucibus est, at sagittis tortor. Mauris tempus leo vitae vulputate tristique. Suspendisse sem justo, consectetur malesuada nisi a, gravida dictum ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et blandit ipsum. </p>
+			<p class="quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim sed nisi ut imperdiet. Vestibulum eu quam nulla. Phasellus turpis leo, pharetra vel augue in, hendrerit facilisis eros. Fusce vehicula lectus nec dui vestibulum consectetur. Suspendisse sit amet faucibus est, at sagittis tortor. Mauris tempus leo vitae vulputate tristique. Suspendisse sem justo, consectetur malesuada nisi a, gravida dictum ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et blandit ipsum. </p>
 			
-			<h2.media>Vídeo Promocional</h2>
-			<h2.media>Galería de Imágenes</h2>
+			<h2 class="media">Vídeo Promocional</h2><br/>
+			<h2 class="media">Galería de Imágenes</h2>
 			<a href="">enlace ejemplo cuerpo</a>
 			<a href="">enlace ejemplo cuerpo</a>
 			
