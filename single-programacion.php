@@ -25,11 +25,17 @@
 			Barrionuevo (Vecina/Muerte), Tábata Cerezo (Muchacha/Luna),
 			Eduardo Pérez de Carrera (voz bosque/mantras)</p>
 			<h2>Ficha Artística</h2>
-			<p>ESCENOGRAFÍA E ILUMINACIÓN:Eduardo Pérez de Carrera </br>
-			VESTUARIO:Ana Moreno</br>
-			ESPACIO SONORO:Miguel Pérez-Muñoz, Jesús Ortiz, Irina
-			Kouberskaya</br>
-			TÉCNICO DE ILUMINACIÓN Y SONIDO:Paula Sánchez</p>
+				<dl class="dl-horizontal">
+      				<dt>ESCENOGRAFÍA E ILUMINACIÓN:</dt>
+      				<dd>Eduardo Pérez de Carrera </dd>
+				<dt>VESTUARIO:</dt>
+				<dd>Ana Moreno</dd>
+				<dd>Talleres Bargueño</dd>
+				<dt>ESPACIO SONORO:</dt>
+				<dd>Miguel Pérez-Muñoz, Jesús Ortiz, Irina Kouberskaya</dd>
+				<dt>TÉCNICO DE ILUMINACIÓN Y SONIDO:</dt>
+				<dd>Paula Sánchez</dd>
+				</dl>
 			<h2>Premios</h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dignissim sed nisi ut imperdiet. Vestibulum eu quam nulla. Phasellus turpis leo, pharetra vel augue in, hendrerit facilisis eros. Fusce vehicula lectus nec dui vestibulum consectetur. Suspendisse sit amet faucibus est, at sagittis tortor. Mauris tempus leo vitae vulputate tristique. Suspendisse sem justo, consectetur malesuada nisi a, gravida dictum ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et blandit ipsum. </p>
 			<h2>Críticas</h2>
